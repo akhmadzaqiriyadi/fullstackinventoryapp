@@ -1,0 +1,10 @@
+# Node modules for both FE and BE
+backend/node_modules/
+frontend/node_modules/
+
+# Environment files
+backend/.env
+frontend/.env
+
+# Prisma client
+backend/prisma/generated/
